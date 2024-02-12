@@ -1,1 +1,1 @@
-# Layout with HTML & CSS
+# Layout with HTML, CSS & JS(slider)
